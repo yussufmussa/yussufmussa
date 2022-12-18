@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Yussuf Mussa 👋 
+I am an experienced software developer with a degree in Computer engineering. I excel as a full-stack developer working with PHP/Laravel as my main stack, with an interest in Python and Node.js.
+ In addition, I have specialized knowledge of MySQL and excellent knowledge of JavaScript and various front-end frameworks. 
+
+I have extensive experience working with various APIs and online payment solutions. I specialize in creating web applications that are both scalable and secure, using object-oriented design principles. 
+
+ I am an excellent English speaker and can provide updates as needed when I work. Communication will never be a problem as long as we stay on top of our communication skills.
+
+
+
+
 
 <!--
 **yussufmussa/yussufmussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
