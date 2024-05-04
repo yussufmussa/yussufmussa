@@ -1,10 +1,7 @@
 ### Hi I'm Yussuf Mussa 👋 
-I am an experienced software developer with a degree in Computer engineering. I excel as a full-stack developer working with PHP/Laravel as my main stack, with an interest in Python and Node.js.
- In addition, I have specialized knowledge of MySQL and excellent knowledge of JavaScript and various front-end frameworks. 
-
-I have extensive experience working with various APIs and online payment solutions. I specialize in creating web applications that are both scalable and secure, using object-oriented design principles. 
-
- I am an excellent English speaker and can provide updates as needed when I work. Communication will never be a problem as long as we stay on top of our communication skills.
+I am Experienced in designing, developing, and deploying small to medium-scale web applications using the PHP/Laravel stack. Proficient in Designing and integrating third-party RESTful API(s).
+ Driven by an entrepreneurial mindset, I prioritize building web applications that directly address business needs and drive growth.
+ Committed to continuous learning and growth, seeking new challenges to make a meaningful impact.
 
 
 
